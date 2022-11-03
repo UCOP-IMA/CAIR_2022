@@ -21,3 +21,6 @@ Participants in this session will be able to recognize when Python could be used
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+[Exercise 1](https://colab.research.google.com/drive/1AMVH_S_l00s7JfUDN0pXMcBjhHkiROX5#scrollTo=QHV7o0uFj-ty)
