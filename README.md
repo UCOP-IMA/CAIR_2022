@@ -4,7 +4,7 @@ We will assume participants have general digital literacy, as well as familiarit
 to test your setup, please follow these instructions:
 to test your setup, please follow these instructions:
 
-****Google****__
+****Google****
 If you don't already have a Google Account, you can create one for free at https://accounts.google.com/signup
 
 We'll be using Google accounts to run code examples in https://colab.research.google.com/
