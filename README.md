@@ -24,3 +24,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 
 [Exercise 1](https://colab.research.google.com/drive/1AMVH_S_l00s7JfUDN0pXMcBjhHkiROX5#scrollTo=QHV7o0uFj-ty)
+[Exercise 2](https://colab.research.google.com/drive/1PRrmxWdIjXkG6uxg2Zy41W8VDSrKcgi1#scrollTo=xRUzgGInqndj)
