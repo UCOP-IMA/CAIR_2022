@@ -23,9 +23,10 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
-[Exercise 1](https://colab.research.google.com/drive/1AMVH_S_l00s7JfUDN0pXMcBjhHkiROX5#scrollTo=QHV7o0uFj-ty)
+[Chapter 1](https://colab.research.google.com/drive/1AMVH_S_l00s7JfUDN0pXMcBjhHkiROX5#scrollTo=oY6wWP27MgHR#offline=true&sandboxMode=true)
 
-[Exercise 2](https://colab.research.google.com/drive/1PRrmxWdIjXkG6uxg2Zy41W8VDSrKcgi1#scrollTo=xRUzgGInqndj)
+[Chapter 2](https://colab.research.google.com/drive/1PRrmxWdIjXkG6uxg2Zy41W8VDSrKcgi1#scrollTo=1FlbVRREXrIZ#offline=true&sandboxMode=true)
+[Chapter 3](https://colab.research.google.com/drive/1K616hKP0R4h1s5CYvhL_l-8LlqQjVYxd#scrollTo=iPpV2brjGpcK#offline=true&sandboxMode=true)
 
 sandbox mode
 https://colab.research.google.com/drive/1WNgjM6ijMkg9ghBllLexfo9QDp6brxxK#offline=true&sandboxMode=true
