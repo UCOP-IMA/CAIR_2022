@@ -7,14 +7,6 @@ To test your setup, please follow these instructions:
 
 If you don't already have a Google Account, you can create one for free at https://accounts.google.com/signup
 
-1. Once ready, open up our first Chapter (https://colab.research.google.com/drive/1AMVH_S_l00s7JfUDN0pXMcBjhHkiROX5#scrollTo=QHV7o0uFj-ty) and complete the following steps: 
-
-      1. Enable line numbers using the Tools menu: Tools -> Settings -> Editor -> Show line numbers -> Save
-      2. Enalbe the Table of Contents using the View menu: View -> Table of contents
-      3. At any point to save a copy of the notebook you are working on, along with any edits you make, please use the File menu: File -> Save a copy in Drive
-      
-_All in-class examples assume the use of Google Colab, and we will not be able to provide support for any other setup._
-
 **After successfully completing this class, we will be equipped for the following:**
 Participants in this session will be able to recognize when Python could be used to solve common IR problems. Participants in this session will be able to generate mock datasets for testing techniques without student privacy concerns.
 
